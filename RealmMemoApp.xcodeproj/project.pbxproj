@@ -13,6 +13,7 @@
 		54CA304526E482E200304E4D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54CA304326E482E200304E4D /* Main.storyboard */; };
 		54CA304726E482E700304E4D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 54CA304626E482E700304E4D /* Assets.xcassets */; };
 		54CA304A26E482E700304E4D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 54CA304826E482E700304E4D /* LaunchScreen.storyboard */; };
+		54CA305226E48E2200304E4D /* DesignGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 54CA305126E48E2200304E4D /* DesignGroup.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		54CA304626E482E700304E4D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		54CA304926E482E700304E4D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		54CA304B26E482E700304E4D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		54CA305126E48E2200304E4D /* DesignGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignGroup.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				54CA303D26E482E200304E4D /* AppDelegate.swift */,
 				54CA303F26E482E200304E4D /* SceneDelegate.swift */,
 				54CA304126E482E200304E4D /* ViewController.swift */,
+				54CA305126E48E2200304E4D /* DesignGroup.swift */,
 				54CA304326E482E200304E4D /* Main.storyboard */,
 				54CA304626E482E700304E4D /* Assets.xcassets */,
 				54CA304826E482E700304E4D /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				54CA304226E482E200304E4D /* ViewController.swift in Sources */,
 				54CA303E26E482E200304E4D /* AppDelegate.swift in Sources */,
 				54CA304026E482E200304E4D /* SceneDelegate.swift in Sources */,
+				54CA305226E48E2200304E4D /* DesignGroup.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
